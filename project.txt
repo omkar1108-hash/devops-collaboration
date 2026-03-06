@@ -1,1 +1,2 @@
 This is my DevOps Git collaboration practical.
+This line was added in feature1 branch.
